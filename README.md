@@ -7,4 +7,4 @@ To get spotify features using api
 <br></br>
 <p>SBS 마부뉴스 '꿍디의 데플리'를 연재했을 때 매주 사용했던 코드 중 하나입니다.</p>
 <p>getFeatures.py 파일을 사용하면 트랙 특성 수치가 엑셀 파일로 추출됩니다.</p>
-<p>Client ID와 앨범 코드 기입하는 것을 잊지 마세요.</p>
+<p><b>Client ID</b>와 <b>앨범 코드</b> 기입하는 것을 잊지 마세요.</p>
