@@ -1,5 +1,5 @@
 # spotify_features
-To get spotify features using api
+To get spotify features using Spotify API
 <br></br>
 <p>스포티파이는 음악 스트리밍 서비스를 제공합니다.</p>
 <p><a href="https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-audio-features">Web API</a>를 통해 음악 데이터를 받아볼수 있는데요.</p>
